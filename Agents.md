@@ -80,4 +80,16 @@ When the user requests a durable behavior change, record it here or in the relev
 
 ## Child DOX Index
 
-This project is not yet indexed. Before continuing you must scan the project, build the DOX tree and replace this message with the actual index. Go deep and scan files recursively to properly evaluate complexity and create nested DOX files where needed.
+- [Verse/AGENTS.md](Verse/AGENTS.md): gameplay source and runtime contracts.
+- [docs/AGENTS.md](docs/AGENTS.md): setup, evidence and milestone tracking.
+- [tools/AGENTS.md](tools/AGENTS.md): original asset generation and editor helpers.
+- [Assets/AGENTS.md](Assets/AGENTS.md): original Blender and FBX source assets.
+- Root owns README.md, repository configuration and project-wide scope.
+
+## Project Contract
+
+- Target UEFN. Aim for the sailing, crew, treasure, naval combat and exploration experience requested by the user; use original or licensed content.
+- GitHub repository raiinman/FNSoT is the durable source and progress tracker.
+- An exact Sea of Thieves recreation is a requested target, not a verified capability or completed deliverable.
+- Work in a separate FNSoT project; never modify unrelated projects without direction.
+- Record implemented, compiled, integrated and playtested states separately.

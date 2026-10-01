@@ -1,0 +1,9 @@
+Saved/
+Intermediate/
+DerivedDataCache/
+.urc/
+.lore/
+.vs/
+__pycache__/
+*.log
+*.blend1
