@@ -80,4 +80,9 @@ When the user requests a durable behavior change, record it here or in the relev
 
 ## Child DOX Index
 
-None. The repository contains only root-level files. This contract owns `Agents.md` and the project introduction in `README.md`; no child documentation boundaries exist yet.
+None. The repository contains only root-level files. This contract owns `Agents.md`, `README.md`, `readme-banner.png`, and `readme-banner-prompt.txt`; no child documentation boundaries exist yet.
+
+
+## README presentation
+
+The root owns `README.md`, its generated decorative `readme-banner.png`, and the generation brief in `readme-banner-prompt.txt`. Preserve the project prose and attribution. Use compact logo badges with Shields.io `label-message-color` URLs; live public GitHub metrics may use Shields.io or Badgen. Artwork is illustrative, and badges do not establish implementation, gate, device, or release acceptance.
