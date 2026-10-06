@@ -80,4 +80,4 @@ When the user requests a durable behavior change, record it here or in the relev
 
 ## Child DOX Index
 
-This project is not yet indexed. Before continuing you must scan the project, build the DOX tree and replace this message with the actual index. Go deep and scan files recursively to properly evaluate complexity and create nested DOX files where needed.
+None. The repository contains only root-level files. This contract owns `Agents.md` and the project introduction in `README.md`; no child documentation boundaries exist yet.
